@@ -98,8 +98,4 @@ The pipeline follows a medallion architecture (Bronze, Silver, Gold layers) and 
 - Writing efficient PySpark jobs and SQL analytics
 - Building a maintainable pipeline using modular code
 
----
 
-## 📄 License
-
-This project is for educational purposes only.
